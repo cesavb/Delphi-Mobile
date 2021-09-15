@@ -1,0 +1,215 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 699
+  ClientWidth = 433
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object TabControl1: TTabControl
+    Align = Client
+    Size.Width = 433.000000000000000000
+    Size.Height = 699.000000000000000000
+    Size.PlatformDefault = False
+    TabIndex = 0
+    TabOrder = 0
+    TabPosition = None
+    Sizes = (
+      433s
+      699s
+      433s
+      699s
+      433s
+      699s)
+    object tabPokedex: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = True
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'tabPokedex'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      object Layout1: TLayout
+        Align = Top
+        Size.Width = 433.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object lblCaption: TLabel
+          Align = Contents
+          StyledSettings = [Family, FontColor]
+          Size.Width = 433.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 26.000000000000000000
+          TextSettings.Font.StyleExt = {00060000000000000004000000}
+          TextSettings.HorzAlign = Center
+          Text = 'Pokedex'
+          TabOrder = 0
+        end
+        object Image1: TImage
+          MultiResBitmap.Width = 39
+          MultiResBitmap = <
+            item
+              Width = 39
+              Height = 48
+              PNG = {
+                89504E470D0A1A0A0000000D4948445200000027000000300806000000927063
+                16000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+                02D0494441545847ED98B9AA144114404771DF4003733131714B54DC3110FC00
+                11F10F1451FC03034D05F113DC0211C1E786A1B8A0B18A0A2EA088A1462EB89C
+                E3EB86A6E7764F774F8DA332070EF51E3375EBBEEAAAEA5BAF3761C2847F8419
+                59DB8499B819F7E0065C85CB710E7EC30FF80C1FE00DBC8F3F70A42CC463F812
+                7FB6D0EF1FC505981C67753FBEC768F0A6BEC37DD8E629D5B2082F62345857CF
+                E1D0B3B80C1F6134C0B0BA1E9762279CB15125966B82AD67D035D1E451DEC543
+                B81697A0BB7831AEC183E8E751BFA267B1D51A74F14781729FE00E6CC24E7C8A
+                519CDCBDD8088F8BBA5D7919FD4E1BFCFE158CE2E95B9C8F03F11C8B02E8259C
+                855DB05F5D8287B116D7CC2B8C3A3FC661B7BF9BCC374714FF05D6AEBD6D1875
+                543F4BC12E8CE2EB26ACE424469DEE604AEE6134CE710CF1916E9CFEB18FF359
+                9B8A0B595BA676E6DC35D15FB41A53B20EA371DE60255F31EAE4424E89077634
+                CE670C71A7F885081F79D5675D30DEF7E91FFB0877AC1D2C142352CF5C55BC2F
+                59DB87C959C146ACC8DA54ACCCDA3255E3FF4ECE0332626BD6A6627BD696799E
+                B57D989C254CC481AC4D816BCAC222E261D6866CC1E2EE296A759182DD18C5D7
+                DAB790B3577579B1EC695B8D94B1D6F31D1AC57F8D8E5F8BB7A4A8B35A5574AD
+                4A66E3144671D56A6820561EDE92A2006A826D8F1667AC2E31DF4C8D2B1EAF6F
+                51905C77B5D5C5205CFCAEB1AA4799EB788D31A8D7B7285051AB0B8B44DF95F9
+                1DC2763D1E41777FD4AFEC4D9C878D719A9B064F61EB04BD57FEC904FDBF4AEB
+                19F4FA16051B85AD13740D7A7DABAAF79A6A7F17BF8F30FA3CF73AB64A50BCBE
+                B90106EDBEB21EB09E63F971E1C02349509C494B6A6BFE5B68056BA168505B7F
+                BF8D27D0575274F23BB08FB09C54D16BD829C11438B0331425966B8273712C98
+                A0094489E59EC1B1E1CCD425F809C78A0956BD7F3FE2D831C1AB584EEE14FE15
+                98E069F4513A6326E67FE927FC6FF47ABF003DB31048FE94BF9F000000004945
+                4E44AE426082}
+              FileName = 
+                'C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Font A' +
+                'wesome\PNG\48\212936 - f002.png'
+            end>
+          Align = Right
+          Position.X = 383.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 48.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object lvPokemon: TListView
+        ItemAppearanceClassName = 'TDynamicAppearance'
+        ItemEditAppearanceClassName = 'TDynamicAppearance'
+        HeaderAppearanceClassName = 'TListHeaderObjects'
+        FooterAppearanceClassName = 'TListHeaderObjects'
+        Align = Client
+        Size.Width = 433.000000000000000000
+        Size.Height = 651.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        ItemAppearance.ItemHeight = 50
+        ItemAppearanceObjects.ItemObjects.ObjectsCollection = <
+          item
+            AppearanceObjectName = 'txtName'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.TextAlign = Leading
+            Appearance.TextColor = claBlack
+            Appearance.Width = 337.000000000000000000
+            Appearance.Height = 44.000000000000000000
+            Appearance.VertAlign = Center
+            Appearance.PlaceOffset.X = 70.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'imgPokemon'
+            AppearanceClassName = 'TImageObjectAppearance'
+            Appearance.Width = 50.000000000000000000
+            Appearance.Height = 50.000000000000000000
+            Appearance.PlaceOffset.X = 8.000000000000000000
+          end>
+        ItemAppearanceObjects.ItemEditObjects.ObjectsCollection = <
+          item
+            AppearanceObjectName = 'Text1'
+            AppearanceClassName = 'TTextObjectAppearance'
+          end>
+        PullToRefresh = True
+        PullRefreshWait = True
+      end
+    end
+    object tabDados: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'tabDados'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      object Layout2: TLayout
+        Align = Top
+        Size.Width = 433.000000000000000000
+        Size.Height = 281.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Image2: TImage
+          MultiResBitmap = <
+            item
+            end>
+          Align = Left
+          Margins.Left = 25.000000000000000000
+          Margins.Top = 25.000000000000000000
+          Margins.Bottom = 71.000000000000000000
+          Position.X = 25.000000000000000000
+          Position.Y = 25.000000000000000000
+          Size.Width = 185.000000000000000000
+          Size.Height = 185.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+      object Layout3: TLayout
+        Align = Top
+        Position.Y = 281.000000000000000000
+        Size.Width = 433.000000000000000000
+        Size.Height = 160.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object lblDescricao: TLabel
+          Align = Client
+          StyledSettings = [Family, FontColor]
+          Margins.Left = 25.000000000000000000
+          Margins.Top = 25.000000000000000000
+          Margins.Right = 25.000000000000000000
+          Margins.Bottom = 25.000000000000000000
+          Size.Width = 383.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 16.000000000000000000
+          TextSettings.Font.StyleExt = {00040000000100000004000000}
+          TextSettings.VertAlign = Leading
+          Text = 'lblDescricao'
+          TabOrder = 0
+        end
+      end
+    end
+    object tabSearch: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'tabSearch'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+    end
+  end
+end
