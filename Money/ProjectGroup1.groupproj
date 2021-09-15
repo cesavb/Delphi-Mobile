@@ -1,0 +1,39 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{3F559DA8-D955-4A1D-BA58-4ABCD64C6ADF}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Money.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Fontes\Money.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Money">
+        <MSBuild Projects="..\Fontes\Money.dproj"/>
+    </Target>
+    <Target Name="Money:Clean">
+        <MSBuild Projects="..\Fontes\Money.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Money:Make">
+        <MSBuild Projects="..\Fontes\Money.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Money;Money"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Money:Clean;Money:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Money:Make;Money:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

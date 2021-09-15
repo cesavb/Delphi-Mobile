@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/26 10:31:57.000.169,=C:\Users\cesar.baganha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 10:33:35.000.874,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Fontes\Units\u99Permissions.pas</Transaction>
+    <Transaction>2021/08/26 10:33:36.000.049,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Fontes\Units\uFormat.pas</Transaction>
+    <Transaction>2021/08/26 10:38:36.000.111,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLogin.pas=C:\Users\cesar.baganha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 10:38:36.000.111,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLogin.fmx=C:\Users\cesar.baganha\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/08/26 10:38:46.000.114,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj=C:\Users\cesar.baganha\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/26 12:39:30.000.346,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj</Transaction>
+    <Transaction>2021/08/27 14:03:47.000.845,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/27 14:05:24.000.685,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitPrincipal.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.fmx</Transaction>
+    <Transaction>2021/08/27 14:05:24.000.685,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitPrincipal.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/27 16:59:31.000.886,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj</Transaction>
+    <Transaction>2021/08/30 15:22:50.000.837,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Money.dproj</Transaction>
+    <Transaction>2021/08/30 16:14:59.000.963,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 16:16:14.000.205,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLancamentos.fmx</Transaction>
+    <Transaction>2021/08/30 16:16:14.000.205,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLancamentos.pas</Transaction>
+    <Transaction>2021/08/31 12:14:05.000.362,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 12:19:00.000.323,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLancamentoNovo.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.fmx</Transaction>
+    <Transaction>2021/08/31 12:19:00.000.323,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitLancamentoNovo.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 21:42:08.000.975,=C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 21:55:14.000.328,=C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 21:56:54.000.356,C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\Unit1.pas=C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\UnitCategorias.pas</Transaction>
+    <Transaction>2021/08/31 21:56:54.000.356,C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\Unit1.fmx=C:\Users\cesav\Documents\Estudos\Delphi Mobile\App 99Money\UnitCategorias.fmx</Transaction>
+    <Transaction>2021/09/01 10:14:24.000.275,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 10:15:14.000.436,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitNovaCategoria.fmx</Transaction>
+    <Transaction>2021/09/01 10:15:14.000.436,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitNovaCategoria.pas</Transaction>
+    <Transaction>2021/09/01 14:52:55.000.884,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 14:53:15.000.508,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitDM.pas</Transaction>
+    <Transaction>2021/09/01 14:53:15.000.508,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.dfm=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitDM.dfm</Transaction>
+    <Transaction>2021/09/02 11:30:39.000.234,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/02 11:41:36.000.585,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\cCategoria.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/06 12:12:23.000.072,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\MoneyTest\UnitSplash.pas</Transaction>
+    <Transaction>2021/09/08 11:57:59.000.591,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\MoneyTest\Classes\cLancamento.pas</Transaction>
+    <Transaction>2021/09/08 11:58:26.000.921,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\MoneyTest\Classes\cLancamento.pas=</Transaction>
+    <Transaction>2021/09/08 11:58:36.000.870,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 11:59:08.000.700,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\cLançamento.pas</Transaction>
+    <Transaction>2021/09/08 12:00:01.000.802,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\cLançamento.pas=</Transaction>
+    <Transaction>2021/09/08 12:00:05.000.737,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 12:00:18.000.015,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\cLancamento.pas</Transaction>
+    <Transaction>2021/09/14 11:08:53.982,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 11:30:59.377,=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit2.pas</Transaction>
+    <Transaction>2021/09/14 11:43:03.973,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitMenuPerfil.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 11:43:03.973,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitMenuPerfil.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit1.fmx</Transaction>
+    <Transaction>2021/09/14 11:43:11.816,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitEditarPerfil.pas=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit2.pas</Transaction>
+    <Transaction>2021/09/14 11:43:11.816,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\UnitEditarPerfil.fmx=C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\Money\Unit2.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
