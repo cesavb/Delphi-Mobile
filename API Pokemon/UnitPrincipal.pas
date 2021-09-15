@@ -22,10 +22,12 @@ type
     tabSearch: TTabItem;
     Image1: TImage;
     Layout2: TLayout;
-    Image2: TImage;
+    imgPoke: TImage;
     lblDescricao: TLabel;
     Layout3: TLayout;
     procedure FormShow(Sender: TObject);
+    procedure lvPokemonItemClick(const Sender: TObject;
+      const AItem: TListViewItem);
   private
     function FormataNome(sNome: String): string;
     function ReturnImage(URL: string): TBitmap;
@@ -109,6 +111,12 @@ begin
          imagem.Bitmap := ReturnImage(sprite);
       end;
    end;
+end;
+
+procedure TForm1.lvPokemonItemClick(const Sender: TObject;
+  const AItem: TListViewItem);
+begin
+   actInfo.execute;
 end;
 
 end.

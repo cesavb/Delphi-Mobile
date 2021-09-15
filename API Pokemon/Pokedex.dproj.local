@@ -10,6 +10,6 @@
     <Transaction>2021/09/15 11:17:13.000.593,C:\Users\cesar.baganha\Documents\Treinamento\Aulas Mobile\API Pokemon\Pokedex.dproj=C:\Users\cesar.baganha\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android="" Android64="52104f734c28b3e1"/>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
 	</ActiveMobileDevice>
 </BorlandProject>
